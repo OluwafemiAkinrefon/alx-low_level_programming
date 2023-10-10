@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - This program prints a line usinf the printf function
- * return: 0 (success)
+ * main -This program prints a line usinf the printf function
+ * return:0 (success)
  */
 int main(void)
 {
